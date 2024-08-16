@@ -8,3 +8,8 @@ Bignet is a simple implementation of the internet which will send you raw text a
 ### Description
 The BE6502 C template is a simple C template that lets you compile C code for the ben eater 6502 breadboard computer made by ben eater, the original design was made by [u/mgocobachi](https://www.reddit.com/user/mgocobachi/) on reddit and I put it into a makefile.
 - [BE6502 C repo](https://github.com/ThatOSDeveloper/Simple-BE6502-C-Template)
+
+## nanobyte_os
+### Description
+This is a simple OS forked from [nanobyte-dev](https://github.com/nanobyte-dev) it is designed to be a simple OS.
+- [nanobyte_os](https://github.com/nanobyte-dev/nanobyte_os)
