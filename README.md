@@ -12,4 +12,5 @@ The BE6502 C template is a simple C template that lets you compile C code for th
 
 ## Charlotte OS
 ### Description
-While I do not own the repo I help write it, I think it is one of my favorite projects I have ever developed for, I love it and its so easy to do and work with.
+While I do not own the repo I help write it, I think it is one of my favorite projects I have ever developed for, I love it and it is so easy to do and work with.
+- [Charlotte OS](https://github.com/charlotte-os/charlotte-core)
