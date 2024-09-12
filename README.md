@@ -9,8 +9,3 @@ Bignet is a simple implementation of the internet which will send you raw text a
 ### Description
 The BE6502 C template is a simple C template that lets you compile C code for the Ben Eater 6502 breadboard computer made by Ben Eater, the original design was made by [u/mgocobachi](https://www.reddit.com/user/mgocobachi/) on Reddit and I put it into a makefile.
 - [BE6502 C repo](https://github.com/ThatOSDeveloper/Simple-BE6502-C-Template)
-
-## Charlotte OS
-### Description
-While I do not own the repo I help write it, I think it is one of my favorite projects I have ever developed for, I love it and it is so easy to do and work with.
-- [Charlotte OS](https://github.com/charlotte-os/charlotte-core)
