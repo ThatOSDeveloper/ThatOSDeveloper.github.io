@@ -9,5 +9,5 @@ The BE6502 C template is a simple C template that lets you compile C code for th
 - [BE6502 C Repo](https://github.com/ThatOSDeveloper/Simple-BE6502-C-Template)
 
 ## SlugOS
-SlugOS is an in development custom OS written from scratch, its in very early beta and is entirely unusable, it has only recently been restarted (this is the 9th and hopefully final rewrite).
+SlugOS is an in development custom OS written from scratch, its in very early beta and is entirely unusable, it is in development, and always will be (this is the 10th and hopefully final rewrite).
 - [SlugOS Repo](https://github.com/SlugOS/SlugOS)
