@@ -1,0 +1,9 @@
+title: ThatOSDeveloper's blog
+description: >- # this means to ignore newlines until "baseurl:"
+  A simple site for simple OS Developers.
+baseurl: ""
+url: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
