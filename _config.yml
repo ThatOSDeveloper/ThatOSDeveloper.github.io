@@ -1,9 +1,14 @@
 title: ThatOSDeveloper's blog
 description: >- # this means to ignore newlines until "baseurl:"
-  A simple site for simple OS Developers.
+  A personal blog for hobby OS developers exploring low-level programming and custom kernels.
+
 baseurl: ""
 url: ""
+email: thatosdeveloper@thatosdeveloper.us
+codeberg: https://codeberg.org/ThatOSDeveloper
 
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
