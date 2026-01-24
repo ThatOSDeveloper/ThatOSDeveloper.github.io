@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Its my website, what do you want?
+This is my personal blog/showcasing website ran by github pages
